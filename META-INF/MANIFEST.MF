@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: com.platformer.Launcher
+Class-Path: javafx-controls-18.0.2-win.jar javafx-base-18.0.2-win.jar ja
+ vafx-controls-18.0.2.jar javafx-base-18.0.2.jar javafx-media-18.0.2.jar
+  ikonli-javafx-12.3.1.jar bootstrapfx-core-0.4.0.jar javafx-media-18.0.
+ 2-win.jar javafx-fxml-18.0.2.jar controlsfx-11.1.2.jar ikonli-core-12.3
+ .1.jar javafx-graphics-18.0.2-win.jar javafx-fxml-18.0.2-win.jar javafx
+ -graphics-18.0.2.jar
+
